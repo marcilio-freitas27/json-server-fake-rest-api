@@ -1,1 +1,32 @@
-{"teste": [{"id": 1, "nome": "Marcilio"}]}
+{
+    "empresa": [
+        {
+            "razaoSocial": "Marcilio Dev",
+            "cnpj": "12345678000111",
+            "ramo": "Tecnologia da Informação",
+            "dadosEmpresa": {
+                "usuarios": [
+                    {
+                        "idUsuario": 1,
+                        "nome": "Marcilio",
+                        "ativo": true,
+                        "codCargo": 1
+                    }
+                ],
+                "cargos": [
+                    {
+                        "codigoCargo": 1,
+                        "cargo": "Desenvolvedor Frontend",
+                        "nivel": 1
+                    }
+                ],
+                "niveis": [
+                    {
+                        "codigoNivel": 1,
+                        "nivel": "Junior"
+                    }
+                ]
+            }
+        }
+    ]
+}
