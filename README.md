@@ -12,4 +12,4 @@
 
 - Através do link [Empresa - Angular](https://stackblitz.com/edit/angular-wndqms) é possível acompanhar o consumo da api com Angular.
   
-- [**```Em breve```**] Através do link [Empresa - React Native](snack.com/empresa) é possível acompanhar o consumo da api com React Native.
+- Através do link [Empresa - React Native](https://snack.expo.dev/@marcilio.freitas/empresa) é possível acompanhar o consumo da api com React Native.
